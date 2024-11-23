@@ -1,0 +1,70 @@
+.find_{
+    text-align: center;
+    padding-top: 50px;
+}
+.find_ p{
+    color: gray;
+}
+.find_ span{color: #B138C9;}
+.card{
+    width: 21rem;
+}
+.card_item{
+    margin-top: 50px;
+    display: flex;
+    gap: 60px;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.navbar_{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card_1{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 50px;
+}
+.card_flex{
+    margin-top: 30px;
+   
+    display: flex;
+    gap: 30px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lead_{
+    margin-top: 40px;
+    height: 600px;
+    background-color: #F3F5FD;
+}
+.lead_ img{
+    height: 300px;
+    width: 400px;
+}
+.flex_sec{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex_item{
+    display: flex;
+    gap: 100px;
+    max-width: 400px;
+    justify-content: space-between;
+}
+.flex_sec_1{
+    margin-top: -140px;
+    margin-left: 70px;
+}
+.navbar_1{
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
